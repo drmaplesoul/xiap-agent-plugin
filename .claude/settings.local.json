@@ -8,7 +8,9 @@
       "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa\")",
       "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa-low-code\")",
       "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa-high-code\")",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Read(//root/.claude/plugins/**)",
+      "Read(//c/Users/Administrator/.claude/plugins/marketplaces/**)"
     ]
   }
 }

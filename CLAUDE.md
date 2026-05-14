@@ -1,4 +1,4 @@
-# MyPlugin - 自定义 Agent 与技能包插件
+# XIAP Agent Plugin - 自定义 Agent 与技能包插件
 
 ## 概述
 本插件提供多 Agent 切换、按需技能加载和领域专用 MCP 服务。

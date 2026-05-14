@@ -7,10 +7,7 @@
 ### 1. 注册 Marketplace（一次性）
 
 ```bash
-claude plugin marketplace add \
-  --name xiap \
-  --source git \
-  --url git@github.com:drmaplesoul/xiap-agent-plugin.git
+claude plugin marketplace add git@github.com:drmaplesoul/xiap-agent-plugin.git
 ```
 
 ### 2. 安装插件

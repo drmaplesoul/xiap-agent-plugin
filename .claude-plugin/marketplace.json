@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "xiap",
+  "description": "XIAP - 自定义 Agent 与技能包插件市场，支持多 Agent 切换、按需技能加载、MCP 服务",
+  "owner": {
+    "name": "drmaplesoul"
+  },
+  "plugins": [
+    {
+      "name": "xiap-agent-plugin",
+      "description": "自定义 Agent 与技能包插件 - low-code / high-code / data-analyzer 三种 Agent，支持按需技能加载和领域专用 MCP 服务",
+      "version": "1.0.0",
+      "author": {
+        "name": "drmaplesoul"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/drmaplesoul/xiap-agent-plugin",
+      "tags": ["agent", "skill", "low-code", "high-code", "data-analyzer", "mcp"]
+    }
+  ],
+  "version": "1.0.0"
+}
