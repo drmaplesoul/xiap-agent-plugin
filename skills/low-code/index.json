@@ -1,0 +1,26 @@
+[
+  {
+    "name": "api-generate",
+    "keywords": ["生成", "API", "接口", "REST", "CRUD", "create", "generate", "endpoint"],
+    "file": "workflows/api-generate.md",
+    "resources": ["resources/rest-api.ts", "resources/crud-template.ts"]
+  },
+  {
+    "name": "page-scaffold",
+    "keywords": ["页面", "脚手架", "列表", "表单", "管理后台", "scaffold", "page"],
+    "file": "workflows/page-scaffold.md",
+    "resources": ["resources/list-page.tsx", "resources/form-page.tsx"]
+  },
+  {
+    "name": "db-migration",
+    "keywords": ["迁移", "数据库", "表结构", "DDL", "migration", "schema", "migrate"],
+    "file": "workflows/db-migration.md",
+    "resources": ["resources/migration.sql"]
+  },
+  {
+    "name": "comp-build",
+    "keywords": ["组件", "封装", "表格", "图表", "component", "widget"],
+    "file": "workflows/comp-build.md",
+    "resources": ["resources/data-table.tsx", "resources/chart-wrapper.tsx"]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "myplugin-mcp-server",
+  "version": "1.0.0",
+  "description": "MyPlugin MCP Server - 领域专用工具服务",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

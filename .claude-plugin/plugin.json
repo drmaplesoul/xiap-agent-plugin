@@ -1,0 +1,8 @@
+{
+  "name": "myplugin",
+  "version": "1.0.0",
+  "description": "自定义 Agent 与技能包插件 - 支持多 Agent 切换、按需技能加载、MCP 服务",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "hooks": "./hooks/hooks.json"
+}

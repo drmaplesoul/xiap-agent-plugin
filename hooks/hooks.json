@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": ".*",
+        "script": "./user-prompt-submit.js"
+      }
+    ]
+  }
+}

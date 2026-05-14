@@ -1,0 +1,26 @@
+[
+  {
+    "name": "data-pipeline",
+    "keywords": ["ETL", "管道", "同步", "导入", "导出", "pipeline", "extract", "transform"],
+    "file": "workflows/data-pipeline.md",
+    "resources": ["resources/pipeline.py"]
+  },
+  {
+    "name": "stat-analysis",
+    "keywords": ["统计", "分析", "回归", "聚类", "statistics", "regression", "correlation"],
+    "file": "workflows/stat-analysis.md",
+    "resources": ["resources/stats-utils.py"]
+  },
+  {
+    "name": "dashboard",
+    "keywords": ["报表", "看板", "可视化", "dashboard", "chart", "图表", "plot"],
+    "file": "workflows/dashboard.md",
+    "resources": ["resources/chart-template.py"]
+  },
+  {
+    "name": "data-quality",
+    "keywords": ["质量", "清洗", "缺失", "异常", "quality", "clean", "null", "outlier"],
+    "file": "workflows/data-quality.md",
+    "resources": ["resources/quality-check.py"]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/hooks\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/mcp-server\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/.claude-plugin\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/agents\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa-low-code\")",
+      "Bash(mkdir -p \"D:/myprojects_2026/ai-agent-plugin/skills/xa-high-code\")",
+      "Bash(git init:*)"
+    ]
+  }
+}

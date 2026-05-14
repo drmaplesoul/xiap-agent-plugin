@@ -1,0 +1,20 @@
+[
+  {
+    "name": "common-util",
+    "keywords": ["工具", "通用", "util", "helper", "common"],
+    "file": "workflows/common-util.md",
+    "resources": []
+  },
+  {
+    "name": "git-workflow",
+    "keywords": ["git", "提交", "分支", "commit", "branch", "merge", "PR"],
+    "file": "workflows/git-workflow.md",
+    "resources": []
+  },
+  {
+    "name": "env-config",
+    "keywords": ["环境", "配置", "部署", "env", "config", "deploy", "dev", "prod"],
+    "file": "workflows/env-config.md",
+    "resources": []
+  }
+]

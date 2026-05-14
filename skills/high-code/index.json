@@ -1,0 +1,26 @@
+[
+  {
+    "name": "arch-design",
+    "keywords": ["架构", "设计", "系统", "architecture", "design", "system"],
+    "file": "workflows/arch-design.md",
+    "resources": ["resources/clean-arch.ts", "resources/design-patterns.ts"]
+  },
+  {
+    "name": "perf-optimize",
+    "keywords": ["性能", "优化", "瓶颈", "optimize", "perf", "performance"],
+    "file": "workflows/perf-optimize.md",
+    "resources": ["resources/perf-toolkit.ts"]
+  },
+  {
+    "name": "code-review",
+    "keywords": ["审查", "重构", "review", "refactor", "code smell"],
+    "file": "workflows/code-review.md",
+    "resources": []
+  },
+  {
+    "name": "api-design",
+    "keywords": ["API", "接口设计", "规范", "RESTful", "GraphQL", "endpoint"],
+    "file": "workflows/api-design.md",
+    "resources": ["resources/api-conventions.md"]
+  }
+]
