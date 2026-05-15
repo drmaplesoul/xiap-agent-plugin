@@ -1,0 +1,26 @@
+[
+  {
+    "name": "app-config",
+    "keywords": ["配置", "参数", "环境变量", "config", "settings", "properties"],
+    "file": "workflows/app-config.md",
+    "resources": []
+  },
+  {
+    "name": "app-deploy",
+    "keywords": ["部署", "发布", "上线", "deploy", "release", "launch"],
+    "file": "workflows/app-deploy.md",
+    "resources": []
+  },
+  {
+    "name": "app-monitor",
+    "keywords": ["监控", "告警", "日志", "monitor", "alert", "log", "metrics"],
+    "file": "workflows/app-monitor.md",
+    "resources": []
+  },
+  {
+    "name": "app-ops",
+    "keywords": ["运维", "排查", "重启", "回滚", "ops", "operate", "restart", "rollback"],
+    "file": "workflows/app-ops.md",
+    "resources": []
+  }
+]

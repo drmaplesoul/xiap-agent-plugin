@@ -16,6 +16,7 @@ triggers:
 | `/xa:low-code` | Low-Code Agent | 低代码开发专家，模板驱动生成 |
 | `/xa:high-code` | High-Code Agent | 高代码架构专家，复杂系统设计 |
 | `/xa:data-analyzer` | Data Analyzer Agent | 数据分析专家，统计与可视化 |
+| `/xa:app` | XIAP App 管理 Agent | 应用全生命周期管理，配置/部署/监控/运维 |
 
 ## 当前状态
 
@@ -28,3 +29,4 @@ triggers:
 - 输入 `/xa:low-code` 切换到 Low-Code Agent
 - 输入 `/xa:high-code` 切换到 High-Code Agent
 - 输入 `/xa:data-analyzer` 切换到 Data Analyzer Agent
+- 输入 `/xa:app` 切换到 XIAP App 管理 Agent
